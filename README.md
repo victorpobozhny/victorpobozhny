@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JS, React, Redux
 - 📫 How to reach me: 
 e-mail:  pobozhny94@gmail.com;
-tg: @akitainuu
+  Telegram: @akitainuu
 
 <!---
 victorpobozhny/victorpobozhny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
