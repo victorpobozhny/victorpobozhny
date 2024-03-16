@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorpobozhny
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning HTML, CSS, JS, React, Redux
+- 🌱 I’m currently learning HTML, CSS, JS, TS, React, Redux
 - 📫 How to reach me: 
 e-mail:  pobozhny94@gmail.com;
   Telegram: @akitainuu
